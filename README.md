@@ -38,8 +38,8 @@
   
 | <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">**Monokrom**</a> |
 | :---: |
-<img align='center' src='https://github.com/Noufall90/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/Noufall90/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" height='100px'> | <img align='center' src='https://github.com/Noufall90/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
-| <p>Monokrom Game.</p> <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">`Repository`</a>  <a href="https://discord.gg/bm9Dk8k6CC" target="_blank">`Discord`</a> |
+<img align='center' src='https://github.com/Noufall90/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='skills/unity.png' height='100px'>  | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" height='100px'> | <img align='center' src='https://github.com/Noufall90/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
+| <p>Monokrom Game.</p> <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">`Repository`</a>  <a href="https://discord.gg/5GmfCDEvS2" target="_blank">`Discord`</a> |
 <br/>
 
 <h2 align="center">🌱 My Skills</h2>
