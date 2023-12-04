@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/PrivateInvestocat.png' width='25%'>  
+<img align='right' src='https://octodex.github.com/images/privateinvestocat.png' width='25%'>  
 
 {  
 
