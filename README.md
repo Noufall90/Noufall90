@@ -75,8 +75,7 @@
 <h4 align="center">📱Discord</h4>
 
 <p align="center">
-<a href="#"><img alt="Discord" src="[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yourservercode)
-"></a>
+<img align='right' src='https://github.com/Noufall90/Noufall90/blob/main/skills/image.png' width='25%'>  
 </p>
 <br/>
 
