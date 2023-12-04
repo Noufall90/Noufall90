@@ -76,7 +76,7 @@
 <h4 align="center">📱 Discord</h4>
 
 <p align="center">
-<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://github.com/Noufall90/Noufall90/blob/main/skills/image.png"></a>
+<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://github.com/Noufall90/Noufall90/blob/main/skills/image.png" width='25%'></a>
 </p>
 
 <p align="center">Take a look at my most outstanding repositories.</p>
