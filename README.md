@@ -35,10 +35,10 @@
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">**Monokrom**</a> |
-| :---: |
+| <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">**Monokrom**</a> | <a href="https://github.com/Noufall90/SeaSearchingLight-2.5D" target="_blank">**Searching Light**</a> |
+| :---: | :---: |
 <img align='center' src='https://github.com/Noufall90/Noufall90/blob/main/skills/unity.png' width="100px"  height='100px'> |
-| <p>Monokrom Game.</p> <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">`Repository`</a>  <a href="https://discord.gg/5GmfCDEvS2" target="_blank">`Discord`</a> |
+| <p>Monokrom Game.</p> <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">`Repository`</a>  <a href="https://discord.gg/5GmfCDEvS2" target="_blank">`Discord`</a> | <p>Searching Light Game.</p> <a href="https://github.com/Noufall90/SeaSearchingLight-2.5D" target="_blank">`Repository`</a>  <a href="..." target="_blank">`Discord`</a> |
 <br/>
 
 <h2 align="center">🌱 My Skills</h2>
