@@ -65,13 +65,18 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white"></a>
 </p>
 
 <h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+</p>
+
+<h4 align="center">☁ Discord</h4>
+
+<p align="center">
+<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white"></a>
 </p>
 
 <p align="center">Take a look at my most outstanding repositories.</p>
