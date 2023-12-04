@@ -73,7 +73,7 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
-<h4 align="center">☁ Discord</h4>
+<h4 align="center">📱 Discord</h4>
 
 <p align="center">
 <a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white"></a>
