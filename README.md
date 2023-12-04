@@ -10,11 +10,10 @@
 
 {  
 
-* 👂 `My name is`: **Noufal**,
-* 👩 `Pronouns`: **Man**,
+* 👂 `My name is`: **Noufall**,
 * ⚡ `I'm`: **19 years old**,
 * 🌱 `I’m currently learning`: **Unity**,
-* f🍔 `I love`: **Nasgor**  ,
+* 🍔 `I love`: **Nasgor**  ,
 * 💻 `Favorite lang`: **C#**  
 
 }
