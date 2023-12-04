@@ -8,7 +8,7 @@
 
 <img align='right' src='https://github.com/Noufall90/Noufall90/blob/main/skills/adventure-cat.png' width='25%'>  
 
-{  
+
 
 * 👂 `My name is`: **Noufall**,
 * ⚡ `I'm`: **19 years old**,
@@ -16,7 +16,7 @@
 * 🍔 `I love`: **Nasgor**  ,
 * 💻 `Favorite lang`: **C#**  
 
-}
+
 
 <br/>
 
