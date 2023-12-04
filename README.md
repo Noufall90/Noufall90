@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello there</h2>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Noufall90&color=blueviolet"/> 
+    <img src="https://komarev.com/ghpvc/?username=Noufall90&color=white"/> 
 </p>
 
 <hr/>
