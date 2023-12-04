@@ -72,12 +72,10 @@
 <p align="center">
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
-<h4 align="center">📱Discord</h4>
 
 <p align="center">
-<img align='right' src='https://github.com/Noufall90/Noufall90/blob/main/skills/image.png' width='25%'>  
+<img align='center' src='https://github.com/Noufall90/Noufall90/blob/main/skills/image.png' width='25%'>  
 </p>
 <br/>
 
-<h2 align="center">📌 Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
