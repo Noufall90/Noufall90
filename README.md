@@ -79,7 +79,7 @@
 
 <p align="center">
 <a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://github.com/Noufall90/Noufall90/blob/main/skills/image.png" width='15%'></a>
-<a href="https://twitter.com/Naufal97244750"><img alt="X" src="https://github.com/Noufall90/Noufall90/blob/main/skills/X_logo_2023_(white).png" width='3%'></a>
+<a href="https://twitter.com/Naufal97244750"><img alt="X" src="https://github.com/Noufall90/Noufall90/blob/main/skills/X_logo_2023_(white).png" width='5%'></a>
 </p>
 
 <p align="center">Take a look at my most outstanding repositories.</p>
