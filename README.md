@@ -72,7 +72,12 @@
 <p align="center">
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
+<h4 align="center">📱Discord</h4>
 
+<p align="center">
+<a href="#"><img alt="Discord" src="[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yourservercode)
+"></a>
+</p>
 <br/>
 
 <h2 align="center">📌 Pinned Repositories</h2>
