@@ -78,7 +78,7 @@
 <h4 align="center">📱 Social</h4>
 
 <p align="center">
-<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://github.com/Noufall90/Noufall90/blob/main/skills/image.png" width='15%'></a>
+<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://github.com/Noufall90/Noufall90/blob/main/skills/Discord.png" width='15%'></a>
 <a href="https://twitter.com/Naufal97244750"><img alt="X" src="https://github.com/Noufall90/Noufall90/blob/main/skills/X_logo_2023_(white).png" width='5%'></a>
 <a href="https://www.instagram.com/_.0pal/"><img alt="Instagram" src="https://github.com/Noufall90/Noufall90/blob/main/skills/Instagram_logo.png" width='5%'></a>
 </p>
