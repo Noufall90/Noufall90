@@ -76,7 +76,7 @@
 <h4 align="center">📱 Discord</h4>
 
 <p align="center">
-<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fdiscord-logo%2F&psig=AOvVaw26lvWwaA94JuSUqLJV4uRw&ust=1701770587613000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj0jM3D9YIDFQAAAAAdAAAAABAE"></a>
 </p>
 
 <p align="center">Take a look at my most outstanding repositories.</p>
