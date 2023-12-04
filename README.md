@@ -36,7 +36,7 @@
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://github.com/Noufall90/Lure" target="_blank">**Lure**</a> | <a href="https://github.com/Noufall90/OpenMC" target="_blank">**OpenMC**</a> | <a href="https://github.com/Noufall90/show-emote" target="_blank">**Showemote**</a> | <a href="https://github.com/Noufall90/umivr" target="_blank">**UmiVR**</a> |
+| <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">**Monokrom**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' src='https://github.com/Noufall90/Lure/blob/main/assets/icon@128.png?raw=true' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/Noufall90/OpenMC/blob/main/assets/icon.png?raw=true' height='100px'>  | <img align='center' src='https://cdn3.emoji.gg/emojis/9452_lul.png' width="100px" height='100px'> | <img align='center' src='https://github.com/Noufall90/UmiVR/blob/main/Assets/icon.png?raw=true' width="100px" height='100px'> |
 | <p>Minecraft L7 proxy in Rust.</p> <a href="https://github.com/samwmyy/lure" target="_blank">`Repository`</a> | <p>Open Source Minecraft launcher</p> <a href="https://github.com/Noufall90/OpenMC" target="_blank">`Repository`</a> <a href="https://discord.gg/bm9Dk8k6CC" target="_blank">`Discord`</a> | <p>Allow chat show emotes on screen</p> <a href="https://github.com/Noufall90/show-emote" target="_blank">`Repository`</a> <a href="https://show-emote.sammwy.com/" target="_blank">Website</a> | <p>Open-source VTuber software</p> <a href="https://github.com/Noufall90/umivr" target="_blank">`Repository`</a> |
