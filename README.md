@@ -83,4 +83,4 @@
 <a href="https://www.instagram.com/_.0pal/"><img alt="Instagram" src="https://github.com/Noufall90/Noufall90/blob/main/skills/Instagram_logo.png" width='5%'></a>
 </p>
 
-<p align="center">Take a look at my most outstanding repositories.</p>
+<p align="center">Be productive and don't waste time.</p>
