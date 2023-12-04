@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there</h2>
+<h2 align="center">👋 Hello</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet"/> 
@@ -10,12 +10,12 @@
 
 {  
 
-* 👂 `My name is`: **Sammwy**,
-* 👩 `Pronouns`: **She/Her**,
-* ⚡ `I'm`: **21 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
-* ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **Rust & TypeScript**  
+* 👂 `My name is`: **Noufal**,
+* 👩 `Pronouns`: **Man**,
+* ⚡ `I'm`: **19 years old**,
+* 🌱 `I’m currently learning`: **Unity**,
+* f🍔 `I love`: **Nasgor**  ,
+* 💻 `Favorite lang`: **C#**  
 
 }
 
