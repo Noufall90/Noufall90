@@ -37,7 +37,7 @@
   
 | <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">**Monokrom**</a> | <a href="https://github.com/Noufall90/SeaSearchingLight-2.5D" target="_blank">**Searching Light**</a> |
 | :---: | :---: |
-<img align='center' src='https://github.com/Noufall90/Noufall90/blob/main/skills/unity.png' width="100px"  height='100px'> |
+<img align='center' src='https://github.com/Noufall90/Noufall90/blob/main/skills/unity.png' width="100px"  height='100px'> <img align='center' src='https://github.com/Noufall90/Noufall90/blob/main/skills/unity.png' width="100px"  height='100px'> |
 | <p>Monokrom Game.</p> <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">`Repository`</a>  <a href="https://discord.gg/5GmfCDEvS2" target="_blank">`Discord`</a> | <p>Searching Light Game.</p> <a href="https://github.com/Noufall90/SeaSearchingLight-2.5D" target="_blank">`Repository`</a>  <a href="..." target="_blank">`Discord`</a> |
 <br/>
 
@@ -73,7 +73,7 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
-<h4 align="center">📱 Discord</h4>
+<h4 align="center">📱 Social</h4>
 
 <p align="center">
 <a href="https://discord.gg/5GmfCDEvS2"><img alt="Discord" src="https://github.com/Noufall90/Noufall90/blob/main/skills/image.png" width='25%'></a>
