@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/privateinvestocat/' width='25%'>  
+<img align='right' src='https://github.com/Noufall90/Noufall90/blob/main/skills/adventure-cat.png' width='25%'>  
 
 {  
 
