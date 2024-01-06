@@ -10,10 +10,10 @@
 
 {
 
-* 👂 `My name is`: **Noufall**,
-* ⚡ `I'm`: **19 years old**,
-* 🌱 `I’m currently learning`: **Unity**,
-* 🍔 `I love`: **Nasgor**  ,
+* 👂 `My name is`: **Noufall**
+* ⚡ `I'm`: **19 years old**
+* 🌱 `I’m currently learning`: **Unity**
+* 🍔 `I love`: **Nasgor**  
 * 💻 `Favorite lang`: **C#**  
 
 }
@@ -50,7 +50,7 @@
 <a href="https://github.com/search?q=user%3ANoufall901+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
 
-<h4 align="center">Game Engine</h4>
+<h4 align="center">🎮 Game Engine</h4>
 
 <p align="center">
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
