@@ -28,17 +28,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Noufall90&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
-
-<h2 align="center">🚀 Projects</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
-  
-| <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">**Monokrom**</a> |
-| :---: | :---: |
-|<img align='center' src='https://github.com/Noufall90/Noufall90/blob/main/Profil/Monokrom/11.jpg' width="100px"  height='100px'>| 
-
-| <p>Monokrom Game.</p> <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">`Repository`</a>  <a href="..." target="_blank">`Discord`</a> |
-<br/>
-
  <h2 align="center">🚀 Projects</h2>
   <p align="center">Take a look at my most outstanding projects.</p>
   
