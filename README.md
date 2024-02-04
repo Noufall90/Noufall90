@@ -29,7 +29,7 @@
 </p>
 
  <h2 align="center">🚀 Projects</h2>
-  <p align="center">Take a look at my most outstanding projects.</p>
+  <p align="center">My Ongoing Project.</p>
   
   <div align="center">
     <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">
