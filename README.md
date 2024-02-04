@@ -35,7 +35,7 @@
     <a href="https://github.com/Noufall90/Monokrom-Unity" target="_blank">
       <img src='https://github.com/Noufall90/Noufall90/blob/main/Profil/Monokrom/11.jpg' alt="Monokrom Game" width="100px" height='100px'>
     </a>
-    <p>Monokrom Game.</p>
+    * 👂 `My name is`: **Noufall**
   </div>
   
 <h2 align="center">🌱 My Skills</h2>
