@@ -19,20 +19,29 @@
 
 <br/>
 
- <h2 align="center">🚀 Projects</h2>
-  <p align="center">My Ongoing Project.</p>
-  
-  <div align="center">
+<h2 align="center">🚀 Projects</h2>
+<p align="center">My Ongoing Project.</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <div style="text-align: center;">
     <a href="https://github.com/Noufall90/Monokrom-Game" target="_blank">
-      <img src='https://github.com/Noufall90/Noufall90/blob/main/Profil/Monokrom/MONOKROM%20LOGO.png' alt="Monokrom Game" width="160px" height='100px'>
+      <img src="https://github.com/Noufall90/Noufall90/blob/main/Profil/Monokrom/MONOKROM%20LOGO.png" 
+           alt="Monokrom Game" width="160px" height="100px">
     </a>
     <p>Monokrom Game</p>
+  </div>
+
+  <div style="text-align: center;">
     <a href="https://github.com/Noufall90/" target="_blank">
-      <img src='https://github.com/Noufall90/Noufall90/blob/main/Profil/Green%20Solaris/Renggang%20Pix.png' alt="Green Solaris" width="160px" height='100px'>
+      <img src="https://github.com/Noufall90/Noufall90/blob/main/Profil/Green%20Solaris/Renggang%20Pix.png" 
+           alt="Green Solaris" width="160px" height="100px">
     </a>
     <p>Green Solaris</p>
   </div>
-  
+
+</div>
+
 <h2 align="center">🌱 My Skills</h2>
 
 <h4 align="center">💻 Programming languages</h4>
