@@ -13,7 +13,7 @@
     <td valign="top" width="70%">
       <h2 align="left">👨‍💻 About Me</h2>
       <ul>
-        <li>👂 My name is: <b>Noufall</b></li>
+        <li>👂 My name is: <b>Naufal</b></li>
         <li>🌱 I’m currently learning: <b>Unity</b></li>
         <li>🍔 I love: <b>Nasgor & Burger</b></li>
         <li>💻 Favorite Anime: <b>Mushoku Tensei</b></li>
