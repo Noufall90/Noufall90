@@ -11,10 +11,9 @@
 {
 
 * 👂 `My name is`: **Noufall**
-* ⚡ `I'm`: **19 years old**
 * 🌱 `I’m currently learning`: **Unity**
-* 🍔 `I love`: **Nasgor**  
-* 💻 `Favorite lang`: **C#**  
+* 🍔 `I love`: **Nasgor & Burger**  
+* 💻 `Favorite Anime`: **Mushoku Tensei**  
 
 }
 
